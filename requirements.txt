@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+scikit-learn
+pandas
+numpy
+pyttsx3
+matplotlib
+Flask
